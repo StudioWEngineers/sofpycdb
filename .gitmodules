@@ -1,0 +1,3 @@
+[submodule "ext/cdbpp"]
+	path = ext/cdbpp
+	url = https://github.com/chokkan/cdbpp.git
