@@ -1,9 +1,6 @@
 [submodule "ext/cdbpp"]
 	path = ext/cdbpp
 	url = https://github.com/chokkan/cdbpp.git
-[submodule "lib/nanobind"]
-	path = lib/nanobind
-	url = https://github.com/wjakob/nanobind.git
 [submodule "ext/nanobind"]
 	path = ext/nanobind
 	url = https://github.com/wjakob/nanobind.git
